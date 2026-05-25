@@ -216,7 +216,13 @@ Data Cleaning
         ↓
 Feature Engineering
         ↓
+Model Selection
+        ↓        
 Training
+        ↓
+Model Evaluation
+        ↓
+Hyper parameter
         ↓
 Validation
         ↓
@@ -228,8 +234,6 @@ Monitoring
         ↓
 Retraining
 ```
-<img width="1026" height="622" alt="image" src="https://github.com/user-attachments/assets/5fb05b17-2a92-460a-9cff-2e3b0fb6c618" />
-![Uploading image.png…]()
 
 ---
 
