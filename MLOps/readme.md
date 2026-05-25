@@ -228,7 +228,8 @@ Monitoring
         ↓
 Retraining
 ```
-<img width="944" height="601" alt="image" src="https://github.com/user-attachments/assets/a5630792-1f54-4035-9bd9-d4ddd572032c" />
+<img width="1026" height="622" alt="image" src="https://github.com/user-attachments/assets/5fb05b17-2a92-460a-9cff-2e3b0fb6c618" />
+![Uploading image.png…]()
 
 ---
 
