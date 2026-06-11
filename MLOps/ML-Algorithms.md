@@ -335,6 +335,10 @@ Methods:
 | Search Ranking | Gradient Boosting |
 
 ---
+scikit-learn → .pkl, .joblib, .onnx
+TensorFlow/Keras → .keras, .h5, .pb
+PyTorch → .pt, .pth, .safetensors
+LLMs → .safetensors, .gguf, .bin
 
 # Quick Memory Trick
 
